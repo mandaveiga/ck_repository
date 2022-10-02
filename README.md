@@ -2,7 +2,8 @@
     📈😄 ck_repository
 </h1>
 
-Script com objetivo de coletar 1000 repositórios obtidos através da API GraphQL, e extrair algumas métricas utilizando a ferramenta CK
+Script com objetivo de coletar 1000 repositórios obtidos através da API GraphQL, e extrair algumas métricas utilizando a ferramenta 
+[CK](https://github.com/mauricioaniche/ck)
 <br>
 
 ## Tecnologias
